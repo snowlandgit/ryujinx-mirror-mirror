@@ -65,10 +65,8 @@ For our Local Wireless (LDN) builds, see our [Multiplayer: Local Play/Local Wire
 
 No builds here, so if you want a build (not sure why would you want that from here), you'll have to compile it, i would compile it for you guys, but uhh, i... dont know.
 
-See [the releases page](https://github.com/ryujinx-mirror/ryujinx/releases) for automatic builds for Windows, macOS, and Linux.
-
 <!--
-If you want to see details on updates to the emulator, you can visit our [Changelog](https://github.com/ryujinx-mirror/Ryujinx/wiki/Changelog).
+If you want to see details on updates to the emulator, you can visit their [Changelog](https://github.com/ryujinx-mirror/Ryujinx/wiki/Changelog).
 
 The latest automatic build for Windows, macOS, and Linux can be found on the [Official Website](https://ryujinx.org/download).
 -->
