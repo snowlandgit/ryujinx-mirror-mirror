@@ -1,23 +1,19 @@
 [links/discord]: https://discord.gg/xmHPGDfVCa
 [badges/discord]: https://img.shields.io/discord/1291765437100720243?label=ryujinx-mirror&logo=discord&logoColor=FFFFFF&color=5865F3
 
-As of now, the [ryujinx-mirror/ryujinx](https://github.com/ryujinx-mirror/ryujinx) repository serves as a downstream hard fork of the original Ryujinx project. You can download nightly binaries for Windows, macOS, and Linux (including `AppImage`s) from the [latest release](https://github.com/ryujinx-mirror/ryujinx/releases/latest).
+As of now, the [snowlandgit/ryujinx-mirror-mirror](https://github.com/snowlandgit/ryujinx-mirror-mirror/) repository serves as a fork of the downstream hard fork of the original Ryujinx project. You can download nightly binaries for Windows, macOS, and Linux (including `AppImage`s) from their [latest releases](https://github.com/ryujinx-mirror/ryujinx/releases/latest).
 
 > [!NOTE]
-> This fork is not affiliated with the **original** Ryujinx project, or Nintendo whatsoever.
+> This fork is not affiliated with the **original** Ryujinx project and Ryujinx mirror project, or Nintendo whatsoever.
 
 ### Current Goals
 
-If you would like a version with more new features & improvements, feel free to check out [GreemDev's fork](https://github.com/GreemDev/Ryujinx). We aim to keep this repository more focused on small fixes and infrastructure reconstruction, staying more true to the original Ryujinx project.
-
-* ☑️ Reconstruct basic build infrastructure & workflows for this repository, based on revision hashes as opposed to semver releases (for now)
-* ☑️ To be as safe as possible, remove all previous in-app and meta references to Patreon, `ryujinx.org` etc while keeping full attribution of original authors and contributors in-tact.
-* Keep 'branding' as pure and faithful to the original project as possible. 
+If you would like a version with more new features & improvements, feel free to check out [GreemDev's fork](https://github.com/GreemDev/Ryujinx). I aim to do nothing, seriously, check out the actual ryujinx mirror repository, i just made this incase Nintendo Nintendoes them, and even then, there are a lot of other forks around, which will be more in line with the recent updates.
 
 ### Join Discussion
 
-Feel free to join the [ryujinx-mirror Discord community][links/discord] to join in on the development of this fork going forward.<br>
-See `#ryujinx-info` for more information.
+Feel free to join the [ryujinx-mirror Discord community][links/discord] to join in on the development of the actual fork going forward.<br>
+See `#ryujinx-info` for more information on it.
 
 [![ryujinx-mirror Discord][badges/discord]][links/discord]
 
@@ -67,8 +63,7 @@ For our Local Wireless (LDN) builds, see our [Multiplayer: Local Play/Local Wire
 
 ## Latest build
 
-These builds are compiled automatically for each commit on the master branch.
-While we strive to ensure optimal stability and performance prior to pushing an update, our automated builds **may be unstable or completely broken**.
+No builds here, so if you want a build (not sure why would you want that from here), you'll have to compile it, i would compile it for you guys, but uhh, i... dont know.
 
 See [the releases page](https://github.com/ryujinx-mirror/ryujinx/releases) for automatic builds for Windows, macOS, and Linux.
 
@@ -84,7 +79,7 @@ If you are planning to contribute or just want to learn more about this project 
 
 ## Building
 
-If you wish to build the emulator yourself, follow these steps:
+If you wish to build the emulator yourself, which you'll have to, follow these steps:
 
 ### Step 1
 
