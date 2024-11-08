@@ -63,7 +63,7 @@ For our Local Wireless (LDN) builds, see our [Multiplayer: Local Play/Local Wire
 
 ## Latest build
 
-No builds here, so if you want a build (not sure why would you want that from here), you'll have to compile it, i would compile it for you guys, but uhh, i... dont know.
+No builds here, so if you want a build (not sure why would you want that from here), you'll have to compile it, i would compile it for you guys, but i can't.
 
 <!--
 If you want to see details on updates to the emulator, you can visit their [Changelog](https://github.com/ryujinx-mirror/Ryujinx/wiki/Changelog).
